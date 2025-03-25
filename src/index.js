@@ -2,7 +2,7 @@ import loadTodo from "./components/todoList";
 import "./style.css";
 import { openModal, closeModal } from "./components/modal";
 
-console.log('Todo index.js is opened')
+console.log('Todo index.js s is opened')
 
 document.querySelector(".btn-open").addEventListener("click", openModal);
 document.querySelector(".btn-close").addEventListener("click", closeModal);
